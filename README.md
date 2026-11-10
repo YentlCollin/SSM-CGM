@@ -6,6 +6,9 @@
 > Accepted at the *NeurIPS 2025 Workshop on Learning from Time Series for Health (TS4H)*.  
 > Preprint available on [arXiv:2510.04386](https://arxiv.org/abs/2510.04386)
 
+**My role:** I am a **co-first author** of the SSM-CGM paper alongside
+Shakson Isaac (**equal contribution**). See the [paper (PDF)](https://arxiv.org/pdf/2510.04386).
+
 ---
 
 ## Overview
@@ -98,9 +101,11 @@ If you use this work, please cite:
 
 ## Authors
 
-- **Shakson Isaac**, Harvard Medical School  
-- **Yentl Collin**, Harvard Medical School / ENPC  
+- **Shakson Isaac**\*, Harvard Medical School
+- **Yentl Collin**\*, Harvard Medical School / ENPC
 - **Chirag J. Patel**, Harvard Medical School  
+
+\* Equal contribution; co-first authors.
 
 ---
 
